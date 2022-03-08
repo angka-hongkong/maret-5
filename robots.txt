@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angka-hongkong.github.io/maret-5/sitemap.xml
